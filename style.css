@@ -1,0 +1,390 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	margin-left: -12px
+}
+ul,li{
+	display: block;
+	display: flex;
+	margin: 20px auto;
+}
+.container{
+	width: 936px;
+	margin: 0 auto
+
+}
+.menu li a{
+	text-decoration: none;
+	margin: 0 auto;
+}
+a{
+	color: grey;
+	transition-property: color;
+	transition-duration: 0.2s;
+
+}
+a:hover{
+	color: black;
+}
+.name{
+	margin: 0 auto;
+	font-size: 47px;
+	margin-top: 39px;
+	max-width: 120px;
+	margin-left: 90px
+}
+.header{
+	border: 1px solid #828282;
+
+}
+.bio{
+	line-height: 22px;
+	width: 177px;
+	margin: -53px auto;
+	text-align: center;
+	font-size: 18px;
+	margin-left: 450px;
+
+}
+.img{
+	margin-left: 574px;
+	margin-top: 150px;
+	margin-right: 150px;
+	width: 820px;
+	text-align: center;
+	
+}
+.button{
+	border: none;
+	background: white;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 860px;
+	transform: rotate(270deg);
+	margin-top: 0px;
+	color: black;
+
+
+}
+.button1{
+	border: none;
+	background: white;
+	font-family: 'Montserrat', sans-serif;
+	margin-left: 860px;
+	transform: rotate(270deg);
+	margin-top:-545px;
+	color: black;
+
+	position: absolute;
+
+}
+button:focus{
+	color: grey;
+	outline:none;
+
+}
+h2{
+	text-align: center;
+	
+
+
+}
+#me{
+	margin-top: -420px;
+    background: #F6F6F6;
+    width: 500px;
+   font-size: 18px;
+   font-family: 'Montserrat', sans-serif;
+   text-align: center;
+
+
+}
+.Middle{
+	margin-top: 50px;
+	width: 485px;
+	margin-bottom: 50px
+}
+
+.end{
+	width: 485px;
+}
+.begin{
+	width: 485px
+
+}
+.back{
+	background: #F6F6F6;
+    height: 506px;
+    margin-top: 104px
+}
+.Skills{
+	margin-top: 170px;
+
+}
+.work{
+	text-align: center;
+	margin-top: 69px
+}
+.all{
+	margin-left: 330px
+}
+.img2{
+	background: radial-gradient(75.99% 75.64% at 32.94% 22.44%, rgba(52, 54, 78, 0.98) 0%, #0C0824 100%);
+	margin-top: 83px;
+
+
+}
+.Adobe{
+	width: 70px;
+	margin-top: 22px;
+	margin-left: 17px;
+	font-size: 14px;
+	margin-bottom: 25px
+
+}
+.Photoshop{
+	margin-top: -21px;
+	font-size: 14px;
+	margin-left: 0px;
+
+}
+h5{
+color: #828282;
+
+}
+.img3{background: radial-gradient(76% 75.63% at 32.97% 22.44%, rgba(66, 51, 37, 0.98) 0%, #1C0A00 100%);
+	margin-left: 255px;
+	position: absolute;
+	text-align: center;
+	margin-top: -180px;
+
+
+}
+.Adobe2{
+	width: 70px;
+	margin-left: 277px;
+	margin-top:-63px;
+	font-size: 14px;
+	position: absolute;
+
+}
+.Illustrator{
+	margin-top: -25px;
+	margin-left: 268px;
+	position: absolute;
+	margin-top: -40px
+
+}
+.img4{
+	background: radial-gradient(76% 75.63% at 32.97% 22.42%, rgba(68, 47, 85, 0.98) 0%, #12002C 100%);
+	margin-left: 500px;
+	position: absolute;
+	text-align: center;
+	margin-top: -180px;
+
+}
+.Adobe3{
+	width: 70px;
+	margin-left: 520px;
+	margin-top:-63px;
+	font-size: 14px;
+	position: absolute;
+
+}
+.After{
+
+margin-top: -25px;
+	margin-left: 500px;
+	position: absolute;
+	margin-top: -40px
+
+}
+.stars{
+	margin-top: 40px;
+	margin-left: 9px
+
+}
+.star0{
+	margin-left: -45px;
+	position: absolute;
+	margin-top: -25px
+}
+.star1{
+	margin-left:55px;
+	margin-top: -25px;
+
+
+	position: absolute;
+
+}
+.star2{
+	margin-left: 22px;
+	position: absolute;
+margin-top: -25px
+}
+.star3{
+	margin-top: -25px;
+	position: absolute;
+	margin-left: -10px
+}
+.whitestar{
+	position: absolute;
+	margin-top: -25px;
+	margin-left: 90px
+}
+.star5{
+	position: absolute;
+	margin-top: -25px;
+	margin-left: 225px
+}
+.star6{
+	position: absolute;
+	margin-top: -25px;
+	margin-left: 255px;
+
+}
+.star7{
+	position: absolute;
+	margin-top: -25px;
+	margin-left: 285px;
+}
+.star11{
+	position: absolute;
+	margin-top: -25px;
+	margin-left: 320px;
+}
+.star12{
+	position: absolute;
+	margin-top: -25px;
+	margin-left: 355px;
+}
+.starfirst{
+	position: absolute;
+	margin-left: 460px;
+	margin-top: -25px
+}
+.star4{
+position: absolute;
+margin-left: 490px;
+margin-top: -25px
+}
+.star8{
+	position: absolute;
+	margin-left: 520px;
+	margin-top: -25px
+}
+.star9{
+	position: absolute;
+	margin-left: 550px;
+	margin-top: -25px
+}
+.star10{
+	position: absolute;
+	margin-left: 580px;
+	margin-top: -25px
+}
+.str3{
+	margin-left: 511110px
+}
+.back2{
+margin-top: 150px;
+height: 2253px;
+background: #F6F6F6;
+
+}
+.Portfolio{
+	margin-top: -2120px;
+	text-align: center;
+}
+.woman{
+	margin-left: 500px;
+	margin-top: 40px
+}
+.store{
+	margin-top: 600px;
+	position: absolute;
+	margin-left: -625px;
+	color: black
+}
+
+.reebok{
+	margin-left: 500px;
+	margin-top: 170px
+
+}
+.reebokstore{
+margin-left: -600px;
+position: absolute;
+color: black;
+margin-top: 760px
+}
+.cam{
+	margin-left: 500px;
+	margin-top: 170px
+}
+.Concept{
+	margin-left: -625px;
+position: absolute;
+color: black;
+margin-top: 760px;
+}
+.Contacts{
+	margin-top: 350px;
+	margin-left: 370px
+}
+.chat{
+	margin-top: 35px;
+	margin-left: 310px
+}
+.cont{
+margin-top: 5px;
+	margin-left: 370px
+}
+.button2{
+	margin-top: 50px;
+	margin-left: 360px;
+	background: black;
+	color: white;
+	border-radius: 40px;
+	text-decoration: none;
+	font-size: 18px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 32px;
+    padding-right: 32px;
+    border-color: black
+}
+.inst{
+	margin-top: 80px;
+	margin-left: 370px
+}
+.global{
+	margin-left: 170px
+}
+.like{
+	margin-top: 45px;
+	margin-left: 430px;
+	font-size: 14px;
+
+}
+.site{
+	margin-top: -20px;
+	margin-left: 328px;
+	font-size: 14px;
+}
+.vector{
+position: absolute;
+margin-left: 270px;
+margin-top: 80px;
+
+}
+.ramka{
+	position: absolute;
+	margin-top: 80px;
+	margin-left: 65px
+}
+
+
+
+
